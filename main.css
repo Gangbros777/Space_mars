@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container{
+    max-width: 1085px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.header_nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-bottom: 48px;
+}
+.header_textbox{
+    display: flex;
+    align-items: center;
+}
+.header_link{
+    text-decoration: none;
+    color: rgb(66, 66, 66);
+font-family: "Inter";
+font-size: 36px;
+font-weight: 700;
+line-height: 44px;
+letter-spacing: 0%;
+text-align: left;
+}
+.hero{
+    max-width: 710px;
+    margin: 0 auto;
+    padding: 60px;
+    box-sizing: border-box;
+border: 1px solid rgb(222, 219, 219);
+border-radius: 50px;
+background: rgb(255, 255, 255);
+}
+.hero_box{
+    display: flex;
+    justify-content: space-between;
+}
+.hero_header_box{
+    display: flex;  
+    align-items: center;
+}
+.hero_link{
+    text-decoration: none;
+    color: rgb(240, 64, 15);
+font-family: "Inter";
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+}
+.hero_title{
+    color: rgb(14, 13, 93);
+font-family: "Inter";
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: left;
+}
+.hero_box_2{
+    margin-top: 133px;
+}
+.hero_btnbox{
+    border-radius: 20px;
+    background: rgb(245, 245, 245);
+    text-align: center;
+    padding: 8px;
+}
+.hero_btn{
+    width: 255px;
+height: 54px;
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 28px;
+font-weight: 500;
+line-height: 34px;
+letter-spacing: 0%;
+border-radius: 15px;
+
+background: rgb(255, 255, 255);
+}
+.input{
+    border: transparent;
+    padding: 20px;
+    margin-top: 30px;
+    width: 533px;
+    height: 70px;
+border-radius: 20px;
+background: rgb(250, 250, 250);
+}
+.hero_link2{
+    color: rgba(0, 0, 0, 0.64);
+font-family: "Inter";
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+text-align: center;
+margin-right: 100px;
+}
+.hero_btn2{
+    color: rgb(255, 255, 255);
+font-family: "Inter";
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+border-radius: 20px;
+background: rgb(246, 158, 134);
+width: 202px;
+height: 67px;
+border: transparent;
+}
